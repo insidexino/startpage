@@ -5,7 +5,7 @@
 $(document).ready(function() {
 	$( "#container" ).draggable().position({
 	my: "center",
-	at: "bottom",
+	at: "center",
 	of: window
 	});
 });
