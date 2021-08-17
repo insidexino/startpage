@@ -4,7 +4,7 @@
 // UI mods should not affect it.
 $(document).ready(function() {
 	$( "#container" ).draggable().position({
-	my: "center",
+	my: "bottom",
 	at: "center",
 	of: window
 	});
